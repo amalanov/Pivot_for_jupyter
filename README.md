@@ -11,3 +11,6 @@ Interactive pivot table for strict corporate environment with limited availabili
 4. Scale factor
 5. Report layout is stored in global variable. No need to setup fields again after you re-run data gathering query 
 6. Text filter for fields selector
+
+## Demo
+![Screenshot](./demo_screen.png)
