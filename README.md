@@ -1,7 +1,7 @@
 # Interactive Pivot for Jupyter
 
 ## Motivation
-Interactive pivot table for strict corporate environment with limited availability of 3d party libraries. This code uses very limited amount of libraries. It doesn't download anything from internet like js libraries an so on.
+Interactive pivot table for strict corporate environment with limited availability of 3d party libraries. This code doesn't download anything from internet like js libraries an so on.
 
 ## Features
 
